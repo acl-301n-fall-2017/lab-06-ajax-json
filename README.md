@@ -25,8 +25,8 @@ When you are finished with lab, follow these steps to submit your work. Create o
 ---
 
 ## Resources  
-[MDN let](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let)
-[MDN const](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/const)
+[MDN let](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let) |
+[MDN const](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/const) |
 [jQuery API Reference (see AJAX Methods and the far right)](https://oscarotero.com/jquery/)
 
 ---
