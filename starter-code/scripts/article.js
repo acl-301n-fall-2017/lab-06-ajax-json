@@ -61,6 +61,7 @@ Article.fetchAll = function() {
   } else {
     $.getJSON("data/hackerIpsum.json", function(hackerData) {
       localStorage.setItem('rawData', JSON.stringify(hackerData));
+      Article.loadAll(hackerData);
       articleView.initIndexPage();
     });
     // TODO: When we don't already have the rawData,
