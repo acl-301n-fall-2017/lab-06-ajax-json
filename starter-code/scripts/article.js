@@ -74,3 +74,4 @@ Article.fetchAll = function() {
       // and then render the index page.
     }
   }
+//really good workin with yall
